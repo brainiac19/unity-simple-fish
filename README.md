@@ -1,2 +1,2 @@
 # unity-simple-fish
-just fish
+just fish :)
